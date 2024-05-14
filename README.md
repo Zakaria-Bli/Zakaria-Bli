@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zakaria (Actually, you can call me Zak)</h1>
+<h1 align="center">Hi 👋, I'm Zak</h1>
 
 - 🔭 I’m currently working as a **Fullstack Developer**
 
